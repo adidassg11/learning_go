@@ -7,4 +7,5 @@ require (
 	github.com/google/go-cmp v0.5.9
 )
 
+// go.work can be used instead of adding replace directives to work across multiple modules
 replace github.com/adidassg11/greetings => ../greetings
