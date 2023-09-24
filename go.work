@@ -2,6 +2,7 @@ go 1.21.1
 
 // go.work can be used instead of adding replace directives to work across multiple modules
 use (
+	./data-access
 	./example/hello
 	./greetings
 	./hello
