@@ -1,4 +1,5 @@
 // tutorial from https://go.dev/doc/tutorial/database-access
+// Other SQL drivers available: https://github.com/golang/go/wiki/SQLDrivers
 
 package main
 

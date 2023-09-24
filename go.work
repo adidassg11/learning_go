@@ -6,4 +6,5 @@ use (
 	./example/hello
 	./greetings
 	./hello
+	./web-service-gin
 )
